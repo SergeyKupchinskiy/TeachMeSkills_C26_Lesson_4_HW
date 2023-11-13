@@ -1,5 +1,6 @@
 # TeachMeSkills_C26_Lesson_4_HW
 This repository was created for homework number 4.
+
 0) Create an array of integers and check whether the given number is included in this array.
 1) Create an array of integers. Remove all occurrences of a given number from an array. The result should be a new array without the specified number.
 2) Create and fill an array with random numbers and print maximum, minimum and average value.
